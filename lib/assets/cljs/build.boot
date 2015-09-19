@@ -3,6 +3,7 @@
  :dependencies '[[adzerk/boot-cljs      "1.7.48-3" :scope "test"]
                  [adzerk/boot-cljs-repl "0.1.10-SNAPSHOT" :scope "test"]
                  [adzerk/boot-reload    "0.3.2"      :scope "test"]
+                 [cljs-ajax "0.5.0-SNAPSHOT"]
                  [reagent "0.5.1"]
                  ])
 

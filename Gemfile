@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem "favorite_things"
+gem "active_model_serializers"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'

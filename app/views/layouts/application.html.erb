@@ -8,7 +8,7 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+  <div id="token" value="<%= form_authenticity_token %>"></div>
 <%= yield %>
 
 </body>
